@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="不涉及征地建设工程项目（至开工前）" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="750" height="540" as="geometry">
+          <mxGeometry x="120" y="120" width="750" height="530" as="geometry">
             <mxRectangle x="120" y="120" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -66,7 +66,7 @@
           <mxGeometry x="650" y="40" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kf1KBGcCmaV7wQvYCVLZ-1" value="设计咨询" style="swimlane;html=1;startSize=20;horizontal=0;rounded=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
-          <mxGeometry x="20" y="120" width="730" height="160" as="geometry">
+          <mxGeometry x="20" y="120" width="730" height="140" as="geometry">
             <mxRectangle x="20" width="430" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -121,10 +121,10 @@
           <mxGeometry x="480" y="45" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="审批事项" style="swimlane;html=1;startSize=20;horizontal=0;rounded=1;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="280" width="730" height="140" as="geometry" />
+          <mxGeometry x="20" y="260" width="730" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="技术审查" style="swimlane;html=1;startSize=20;horizontal=0;rounded=1;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="420" width="730" height="120" as="geometry" />
+          <mxGeometry x="20" y="410" width="730" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kf1KBGcCmaV7wQvYCVLZ-26" value="审图" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="360" y="40" width="80" height="30" as="geometry" />
