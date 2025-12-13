@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="不涉及征地建设工程项目（至开工前）" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="750" height="520" as="geometry">
+          <mxGeometry x="120" y="120" width="750" height="580" as="geometry">
             <mxRectangle x="120" y="120" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -155,6 +155,9 @@
           <mxGeometry x="0.4438" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kf1KBGcCmaV7wQvYCVLZ-63" value="" style="whiteSpace=wrap;html=1;fontStyle=1;startSize=20;rounded=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
+          <mxGeometry x="20" y="520" width="730" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
