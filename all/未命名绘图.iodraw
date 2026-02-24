@@ -69,9 +69,6 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-36" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;rounded=1;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
           <mxGeometry x="360" y="30" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0gPA6yYfAFkqixxx9jbA-1" value="实施方案" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="370" y="250" width="80" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
